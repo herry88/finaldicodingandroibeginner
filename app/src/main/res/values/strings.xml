@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">JuveApps</string>
+    <string name="my_account">My Account</string>
+    <string name="name_me">Herry Prasetyo</string>
+    <string name="email_me">herry081288@gmail.com</string>
 
 </resources>
